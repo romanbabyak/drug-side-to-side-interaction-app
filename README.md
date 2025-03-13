@@ -1,7 +1,7 @@
 # Drug side to side interaction app
 
 ## Description
-A drug interaction analysis application that works with a MySQL database. It provides the possibility to connect either locally or via an MQTT server to a remote database.
+A JavaFX-based drug interaction analysis application that works with a MySQL database. It provides the possibility to connect either locally or via an MQTT server to a remote database.
 
 The program was originally designed to work with the [TwoSIDES](https://nsides.io/) database from Tatonetti Lab. However, with minor code modifications, it can be extended to work with other MySQL databases as well.
 
