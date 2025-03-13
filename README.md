@@ -11,6 +11,9 @@ The application allows users to:
 - Display a Wikipedia description of symptoms
 - Use dynamic navigation (e.g., click on headers to jump to relevant sections)
 
+![Project Preview](image_2025-03-13_12-18-41.png)
+
+
 ## Program Execution Instructions
 The application can be run using one of the following methods:
 
